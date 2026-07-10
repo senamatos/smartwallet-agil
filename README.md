@@ -2,9 +2,6 @@
 
 Repositório exclusivo para a entrega do MVP da Sprint - Gestão Ágil de Projetos e Produtos do projeto SmartWallet.
 
-## 🎥 Vídeo de Apresentação (Showcase)
-* Link para o vídeo do projeto:
-
 ## 🔗 Artefatos da Lean Inception
 * O link para o board completo do Miro com o MVP Canvas encontra-se no arquivo [canvas-url.txt](./canvas-url.txt) na raiz deste repositório.
 
